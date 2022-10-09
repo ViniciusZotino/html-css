@@ -1,0 +1,124 @@
+@charset "UTF-8";
+#header{
+    background-color: rgb(23, 22, 22);
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+}
+#main{
+    height: 900px;
+    width: 1000px;
+    margin: 10px auto;
+    background-color:rgb(17, 29, 38) ;
+}
+#yop{
+    margin-bottom: 5px;
+}
+.center1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: left;
+    color: white;
+    margin-left: 10px;
+}
+#h20{
+    color: white;
+    font-size: large;
+    text-align: left;
+    margin-left: 10px;
+}
+.grey{
+    background-color:rgb(26, 26, 26);
+    height: 370px;
+    width: 460px;
+    float: left;
+    margin-left: 45px;
+    margin-top: 20px;
+}
+#grey2{
+    background-color:rgb(26, 26, 26);
+    width: 330px;
+    height: 254px;
+    float: right;
+    margin-right: 80px;
+    margin-top: 7px;
+    }
+    #h21{
+        font-style: normal;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+        font-size: 15px;
+        margin-left: 8px;
+    }
+    .p{
+        font-size: 12px;
+        margin-left: 5px;
+        margin-bottom: 4px;
+    }
+    #grey3{
+        background-color:rgb(26, 26, 26); ;
+        height: 113px;
+        width: 400px;
+        float:right;
+        margin-right: 45px;
+        margin-top: 15px;
+        border-radius: 4px;
+    }
+    #h22{
+        font-size: 16px;
+        float: right;
+        font-style: italic;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-right: 13px;
+        margin-top: 24px;
+    }
+    #main2{
+        height: 1050px;
+        width: 1000px;
+        margin: 10px auto;
+        background-color: rgb(231, 231, 231);
+        margin-top: 6px;
+    }
+    #h23{
+        font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: rgb(83, 53, 53);
+        text-align: center;
+    }
+    #hey{
+        margin: auto;
+        display: block;
+        padding: 6px;
+        border-radius: 3%;
+    }
+    #aphroso{
+        text-align: justify;
+        color: black;
+        font-family: sans-serif;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    #aiai{
+        float: left;
+        color: black;
+        margin-right: 100px;
+        margin-left:10px;
+        font-style: bolder;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    #aphrosa{
+        font-size: 16px;
+        margin-left: 4px;
+        color: black;
+        text-align: left;
+        float: left;
+    }
+    .center{
+        float: left;
+    }
