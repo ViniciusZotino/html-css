@@ -25,7 +25,7 @@ header{
 header>h1{
     padding-top: 50px;
     font-variant: small-caps;
-    font-size: 6vw;
+    font-size: 7vw;
 }
 header>p{
     padding-bottom: 50px;
@@ -52,15 +52,32 @@ section{
     font-family: var(--fonte3);
     font-size: large;
 }
+#parallax1{
+    background-image: url('imagens/background001.jpg');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#parallax2{
+    background-image: url('imagens/background002.jpg');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+}
 .normal{
     background-color: white;
-    color: black;
+    color: rgb(0, 0, 0);
 }
 .imagem{
     background-color: rgb(39, 10, 71);
     color: white;
+    box-shadow: 6px 6px 13px 0px black;
 }
 .imagem>p{
-    background-color: rgba(0, 0, 0, 0.436);
+    background-color: rgba(0, 0, 0, 0.595);
     width: 400px;
+    padding: 3px;
+    padding-left: 10px;
 }
